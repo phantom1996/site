@@ -89,13 +89,13 @@ h6 {
 }
 
 .back-to-top:focus {
-  background: #e0072f;
+  background: #darkblue;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #e0072f;
+  background: #darkblue;
   color: #fff;
 }
 
@@ -288,7 +288,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #f82249;
+  background-color: #darkblue;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -413,7 +413,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #f82249;
+  color: darkblue;
 }
 
 #mobile-nav ul li li {
@@ -517,7 +517,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #f82249;
+  color: darkblue;
 }
 
 #intro p {
@@ -529,7 +529,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(darkblue 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -614,11 +614,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f82249;
+  border: 5px solid darkblue;
 }
 
 #intro .about-btn:hover {
-  background: #f82249;
+  background: darkblue;
   color: #fff;
 }
 
@@ -815,14 +815,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 #schedule .nav-tabs a {
   border: none;
   border-radius: 50px;
+  border-color: black;
   font-weight: 600;
-  background-color: #0e1b4d;
-  color: #fff;
+  background-color: white;
+  color: #fff123;
   padding: 10px 100px;
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f82249;
+  background-color: darkblue;
   color: #fff;
 }
 
@@ -1195,7 +1196,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #f82249;
+  background: darkblue;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1255,7 +1256,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: darkblue;
   border: 0;
   color: #fff;
 }
@@ -1274,7 +1275,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color:darkblue;
   border: 0;
   color: #fff;
 }
@@ -1374,7 +1375,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #f82249;
+  background: darkblue;
   border: 0;
   padding: 10px 40px;
   color: #fff;
