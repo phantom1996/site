@@ -1186,7 +1186,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #subscribe .section-header h2,
 #subscribe p {
   color: #fff;
-  position: relative;
 }
 
 #subscribe input {
@@ -1204,7 +1203,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: darkblue;
+  background: #f82249;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
