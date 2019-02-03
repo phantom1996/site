@@ -1186,6 +1186,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #subscribe .section-header h2,
 #subscribe p {
   color: #fff;
+  position: relative;
 }
 
 #subscribe input {
