@@ -1191,6 +1191,8 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-align: center;
     font-weight: 700;
     margin-bottom: 10px;
+    color: white
+    margin-right:100%;
 }
 #subscribe p {
   color: #fff;
