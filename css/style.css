@@ -1171,6 +1171,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   overflow: hidden;
   position: relative;
+  border-radius: 80%;
+  border-width: 5px;
+  border-color: black;
 }
 
 #subscribe:before {
