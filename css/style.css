@@ -1160,6 +1160,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 #faq #faq-list a.collapsed i::before {
   content: "\f055" !important;
 }
+#erangle{
+  text-align: center;
+  color: blue;
+}
 
 /*--------------------------------------------------------------
 # Subscribe Section
@@ -1171,8 +1175,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   overflow: hidden;
   position: relative;
-  width: 100%;
-  height: 100%;
 }
 
 #subscribe:before {
@@ -1185,15 +1187,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: 0;
 }
 
-#subscribe .section-header h2{
-    font-size: 36px;
-    text-transform: uppercase;
-    text-align: center;
-    font-weight: 700;
-    margin-bottom: 10px;
-    color: white
-    margin-right:100%;
-}
+#subscribe .section-header h2,
 #subscribe p {
   color: #fff;
 }
@@ -1224,7 +1218,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #subscribe button:hover {
   background: #e0072f;
 }
-
 /*--------------------------------------------------------------
 # Buy Tickets Section
 --------------------------------------------------------------*/
