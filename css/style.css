@@ -184,13 +184,12 @@ h6 {
 }
 
 #header #logo img {
-  position: absolute;
+  position: fixed;
   padding: 0;
   margin-right: 100%;
   margin-right:200px;
-  height: 90px;
+  height: 60px;
   width: 140px;
-  border-radius: 40%
 
 }
 
@@ -522,7 +521,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: darkblue;
+  color: white;
 }
 
 #intro p {
@@ -1556,6 +1555,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-size: 13px;
   color: #ddd;
+}
+#sahnok{
+  position: absolute;
+  margin-left: 1000px;
+  margin-bottom: 300px;
 }
 
 /*--------------------------------------------------------------
