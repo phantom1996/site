@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #f82249;
+  color: white;
   transition: 0.5s;
 }
 
@@ -697,6 +697,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 20px;
   color: #fff;
 }
+
 
 /*--------------------------------------------------------------
 # Speakers Section
