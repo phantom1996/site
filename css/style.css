@@ -901,7 +901,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 #gg{
-  margin-left: 325px;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+  
 }
 
 /*--------------------------------------------------------------
