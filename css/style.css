@@ -467,6 +467,10 @@ body.mobile-nav-active #mobile-nav {
 body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
+#site{
+  width: 80%;
+  height: 80%;
+}
 
 /*--------------------------------------------------------------
 # Intro Section
@@ -482,6 +486,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   background-color: white;
   opacity: 
+}
+#cosmic{
+  width: 650px;
+  height: 450px
 }
 
 #intro:before {
@@ -530,7 +538,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro p {
-  color: yellow;
+  color: white;
   font-weight: 700;
   font-size: 20px;
 }
@@ -1602,8 +1610,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 
   #contact .contact-phone {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
+    
   }
 }
 
