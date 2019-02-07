@@ -697,7 +697,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 20px;
   color: #fff;
 }
-
+#war{
+  color: red;
+}
 
 /*--------------------------------------------------------------
 # Speakers Section
