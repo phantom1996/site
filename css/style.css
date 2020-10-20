@@ -11,13 +11,13 @@
 
 body {
   background: #fff;
-  color: #2f3138;
+  color: #2f3148;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
   color: white;
-  transition: 0.5s;
+  transition: 0.4s;
 }
 
 a:hover,
